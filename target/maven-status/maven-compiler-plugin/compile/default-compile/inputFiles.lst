@@ -1,0 +1,11 @@
+/Users/siddharthashanker/Downloads/wallet-service/src/main/java/com/example/wallet/dto/WalletResponse.java
+/Users/siddharthashanker/Downloads/wallet-service/src/main/java/com/example/wallet/service/WalletService.java
+/Users/siddharthashanker/Downloads/wallet-service/src/main/java/com/example/wallet/entity/Wallet.java
+/Users/siddharthashanker/Downloads/wallet-service/src/main/java/com/example/wallet/exception/InsufficientFundsException.java
+/Users/siddharthashanker/Downloads/wallet-service/src/main/java/com/example/wallet/exception/NotFoundException.java
+/Users/siddharthashanker/Downloads/wallet-service/src/main/java/com/example/wallet/repository/WalletRepository.java
+/Users/siddharthashanker/Downloads/wallet-service/src/main/java/com/example/wallet/controller/WalletController.java
+/Users/siddharthashanker/Downloads/wallet-service/src/main/java/com/example/wallet/service/WalletServiceImpl.java
+/Users/siddharthashanker/Downloads/wallet-service/src/main/java/com/example/wallet/dto/WalletRequest.java
+/Users/siddharthashanker/Downloads/wallet-service/src/main/java/com/example/wallet/exception/ApiExceptionHandler.java
+/Users/siddharthashanker/Downloads/wallet-service/src/main/java/com/example/wallet/WalletApplication.java
